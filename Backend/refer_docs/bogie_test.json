@@ -1,0 +1,25 @@
+{
+  "formNumber": "BOGIE-2025-001",
+  "inspectionBy": "1",
+  "inspectionDate": "2025-01-21",
+  "bogieDetails": {
+    "bogieNo": "BG1234",
+    "makerYearBuilt": "RDSO/2018",
+    "incomingDivAndDate": "NR / 2024-12-25",
+    "deficitComponents": "None",
+    "dateOfIOH": "2024-12-01"
+  },
+  "bogieChecksheet": {
+    "bogieFrameCondition": "Good",
+    "bolster": "Good",
+    "bolsterSuspensionBracket": "Cracked",
+    "lowerSpringSeat": "Good",
+    "axleGuide": "Worn"
+  },
+  "bmbcChecksheet": {
+    "cylinderBody": "WORN OUT",
+    "pistonTrunnion": "GOOD",
+    "adjustingTube": "DAMAGED",
+    "plungerSpring": "GOOD"
+  }
+} 
